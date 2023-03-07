@@ -34,7 +34,7 @@ body
     font-size: 12px;
     background-color: aqua;
     color: black;
-    padding: 4px 12;
+    padding: 4px 12px;
 }
 .row h1
 {
@@ -56,8 +56,9 @@ span
         padding: 8px;
     }
     span
-{
-    position: absolute;
-    margin-left: 360px;
-}
+    {
+        position: absolute;
+        margin-left: 360px;
+         padding: 4px;
+    }
 }
