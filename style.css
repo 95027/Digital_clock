@@ -47,3 +47,13 @@ span
     margin-top: 140px;
     font-size: 18px;
 }
+@media (max-width:350px)
+{
+    .row .column
+    {
+        background-color: rgb(21, 21, 19);
+        margin-right: 20px;
+        box-shadow: 2px 3px 4px red;
+        padding: 5px;
+    }
+}
