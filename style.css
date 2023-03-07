@@ -1,0 +1,49 @@
+body
+{
+    background: url(images/tony-detroit-sZtmk410A1I-unsplash.jpg);
+    background-size:100%;
+    background-position: 100%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.container
+{
+    color: #fff;
+    text-transform: uppercase;
+    margin-top: 250px;
+}
+.container h2
+{
+    text-align: center;
+    letter-spacing: 3px;
+}
+.row
+{
+    display:flex;
+    justify-content: center;  
+}
+.row .column
+{
+    background-color: rgb(21, 21, 19);
+    margin-right: 20px;
+    box-shadow: 2px 3px 4px red;
+    padding: 5px 25px;
+}
+.row p,span
+{
+    font-size: 12px;
+    background-color: aqua;
+    color: black;
+    padding: 4px 12;
+}
+.row h1
+{
+    font-size: 50px;
+    text-align: center;
+}
+span
+{
+    position: absolute;
+    margin-left: 440px;
+    margin-top: 140px;
+    font-size: 18px;
+}
