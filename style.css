@@ -47,7 +47,7 @@ span
     margin-top: 140px;
     font-size: 18px;
 }
-@media (max-width:350px)
+@media (min-width:350px) and (max-width:650px)
 {
     .row .column
     {
